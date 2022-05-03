@@ -15,7 +15,14 @@
 	justify-content: space-between;
     align-items: center;}
 
-
+.bottoni-blu{
+	cursor: pointer;
+    color: white;
+    background-color: #0061FF;
+    border-style: none;
+    padding: 6px 18px 6px 18px;
+	text-align: center;
+}
 /*fix-permanenti*/
 
 
@@ -56,4 +63,8 @@ nav{
 
 .padding-list-header{
 	padding: 0 20px;
+}
+
+.ul-margin-top{
+	margin-top: 5px ;
 }
