@@ -4,3 +4,36 @@
     margin: 0;
     padding: 0;
 }
+
+/*fix di classe*/
+
+.flex-fix{
+	display: flex;
+}
+
+.flex-direction-list{
+	justify-content: space-between;
+    align-items: center;}
+
+
+/*fix-permanenti*/
+
+
+ul{
+	list-style-type: none;
+}
+
+
+nav{
+	padding: 20px;
+}
+
+img{
+	width: 100%;
+}
+/*header classi*/
+
+.header-top{
+	background-color: brown;
+
+}
