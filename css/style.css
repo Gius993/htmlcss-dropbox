@@ -118,4 +118,11 @@ nav{
 	width: 850px;
 	margin-right: 18%;
 	margin-top: 40px;
+	position: relative;
+}
+
+.immagine-jumbo{
+
+	position: absolute;
+	top: 40px;
 }
