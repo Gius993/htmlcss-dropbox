@@ -58,6 +58,10 @@ h1{
 	font-size: 70px;
 	text-align: justify;
 }
+
+h2{
+	font-size: 45px;
+}
 /*header-fix*/
 
 nav li{
@@ -68,6 +72,15 @@ header{
 	background-color: #b4d0e7;
 	height: 800px;
 }
+/*main fix*/
+main{
+	margin-top: 15%;
+	margin-bottom: 6%;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+
 /*nav*/
 
 nav{
@@ -112,7 +125,7 @@ nav{
 	margin-top: 35px;
 }
 
-/*test*/
+
 
 .box-img{
 	width: 850px;
@@ -126,3 +139,7 @@ nav{
 	position: absolute;
 	top: 40px;
 }
+
+/*main classi*/
+
+
