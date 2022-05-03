@@ -5,6 +5,8 @@
     padding: 0;
 }
 
+
+
 /*fix di classe*/
 
 .flex-fix{
@@ -32,7 +34,7 @@ ul{
 
 
 nav{
-	padding: 20px;
+	padding: 30px 20px;
 }
 
 img{
@@ -59,7 +61,7 @@ nav{
 }
 /*header classi*/
 
-
+/*nav*/
 
 .padding-list-header{
 	padding: 0 20px;
@@ -68,3 +70,5 @@ nav{
 .ul-margin-top{
 	margin-top: 5px ;
 }
+
+/*box*/
