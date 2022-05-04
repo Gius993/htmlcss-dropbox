@@ -176,14 +176,14 @@ nav{
 .tabella-piano{
 	width: calc(100% / 3);
 	height: 100%;
-	border: black solid 1px;
+	border: lightgray 1px solid;
 	margin-right: 40px;
 	
 }
 
 .titolo-tabella{
 	height: 40px;
-	border-bottom: black 1px solid;
+	border-bottom: lightgray 1px solid;
 	text-align: center;
 	padding: 10px 0px;
 }
