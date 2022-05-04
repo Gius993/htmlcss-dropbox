@@ -142,4 +142,39 @@ nav{
 
 /*main classi*/
 
+.bordo-acceso{
+	color: #0061FF;
+	margin-right: 4px;
+	
+}
 
+.bordo-spento{
+	margin-right: 4px;
+	margin-left: 9px;
+
+}
+
+.metodo-fatturazione{
+	margin-top: 25px;
+}
+
+.mensile-annuale{
+	font-style: italic;
+}
+
+/*tabelle con i piani*/
+
+.contenitore-tabelle{
+	margin-top: 40px;
+	/*test*/
+	width: 900px;
+	height: 900px;
+	background-color: crimson;
+}
+
+
+.tabella-piano{
+	width: calc(100% / 3);
+	height: 100%;
+	border: black solid 1px;
+}
