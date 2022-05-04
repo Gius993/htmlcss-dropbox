@@ -246,3 +246,35 @@ nav{
 .fix-li-margin{
 	margin-bottom: 25px;
 }
+
+/*Enterprise-contatti*/
+.Enterprise-contatti{
+	margin-top: 40px;
+	width: 860px;
+	height: 220px;
+	border: 1px solid black;
+	background-color: crimson;
+}
+
+.titolo-4-tabella{
+	border-bottom: 1px solid black;
+	height: 20%;
+}
+
+.contenuto-4-tabella{
+	width: 100%;
+	height: 80%;
+}
+
+.contenuto-4-txt{
+	width: 65%;
+	height: 100%;
+	background-color: #0061FF;
+
+}
+
+.contenuto-4-bottone{
+	width: 35%;
+	height: 100%;
+	background-color: darkgreen;
+}
