@@ -49,7 +49,7 @@ nav{
 img{
 	width: 100%;
 }
-a{
+header a{
 	color: inherit;
     text-decoration: none;
 }
@@ -190,4 +190,44 @@ nav{
 
 .contenuto-tabella{
 	padding: 25px;
+	
+}
+
+.ti-tabella{
+	font-size: 25px;
+	
+	
+}
+.color-mese{
+	color: black;
+	margin-top:15px ;
+	margin-bottom: 10px;
+}
+
+.color-prezzo{
+	color: lightgray;
+	
+}
+
+.sezione-1{
+	margin-bottom: 35px;
+}
+
+/*sezione2*/
+
+.font-descrizioni-offerta{
+	font-size: 12px;
+	margin-top: 10px;
+}
+
+.sezione-2{
+	margin-bottom: 40px;
+}
+
+/*sezione 3 */
+
+.tabelle-separo{
+	width: 50px;
+	margin-top: 30px;
+	
 }
