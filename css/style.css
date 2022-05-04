@@ -206,6 +206,7 @@ nav{
 
 .color-prezzo{
 	color: lightgray;
+	font-size: 14px;
 	
 }
 
@@ -219,7 +220,11 @@ nav{
 	font-size: 12px;
 	margin-top: 10px;
 }
-
+.font-descrizioni-offerta-1{
+	font-size: 12px;
+	margin-top: 2px;
+	
+}
 .sezione-2{
 	margin-bottom: 40px;
 }
@@ -237,4 +242,7 @@ nav{
 
 .color-blu-chek{
 	color: #0061FF;
+}
+.fix-li-margin{
+	margin-bottom: 25px;
 }
