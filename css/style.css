@@ -298,7 +298,7 @@ nav{
 	color: white;
 }
 
-/*nuova sezione*/
+/*nuova sezione partner*/
 .partnership a{
 	color: inherit;
     text-decoration: none;
@@ -330,4 +330,36 @@ nav{
 .txt-contatto-pa{
 	font-size: 20px;
 	margin-bottom: 40px;
+}
+
+/*sezione operazioni dropbox*/
+
+.dropbox-buisness-table{
+	margin-top: 40px;
+	width: 900px;
+	height: 1000px;
+	flex-wrap: wrap;
+	
+	
+	
+}
+
+.table-buisness{
+	width: calc(100% / 3);
+	height: calc(100% / 2);
+	padding: 10px;
+
+	
+}
+
+.txt-buisness-title{
+	font-size: 25px;
+}
+.testo-buisness{
+	margin-top: 10px;
+}
+
+.testo-buisness p{
+	margin-top: 15px;
+	font-size: 16px;
 }
