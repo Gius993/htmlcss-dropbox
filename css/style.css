@@ -166,10 +166,9 @@ nav{
 
 .contenitore-tabelle{
 	margin-top: 40px;
-	/*test*/
 	width: 900px;
 	height: 900px;
-	background-color: crimson;
+	
 
 }
 
@@ -185,6 +184,7 @@ nav{
 .titolo-tabella{
 	height: 40px;
 	border-bottom: black 1px solid;
+	text-align: center;
 }
 
 .contenuto-tabella{
