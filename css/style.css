@@ -179,9 +179,14 @@ nav{
 	height: 100%;
 	border: black solid 1px;
 	margin-right: 40px;
+	
 }
 
 .titolo-tabella{
 	height: 40px;
 	border-bottom: black 1px solid;
+}
+
+.contenuto-tabella{
+	padding: 25px;
 }
