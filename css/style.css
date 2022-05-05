@@ -88,12 +88,13 @@ header{
 	height: 800px;
 }
 /*main fix*/
-main{
+.container-main-margin-fix{
 	margin-top: 15%;
 	margin-bottom: 6%;
 	margin-left: 25%;
 	margin-right: 25%;
 }
+
 /* footer*/
 footer{
 	color: white;
