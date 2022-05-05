@@ -100,6 +100,9 @@ header{
 	margin-left: 25%;
 	margin-right: 25%;
 }
+.margin-top-fix{
+	margin-top: 60px;
+}
 
 
 /* footer*/
