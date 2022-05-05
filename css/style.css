@@ -49,6 +49,12 @@
 .text-cente-fix{
 	text-align: center;
 }
+.margin-giu-fix{
+	margin-top: 15%;
+	margin-bottom: 50px;
+	margin-left: 25%;
+	margin-right: 25%;
+}
 /*fix-permanenti*/
 
 
@@ -94,6 +100,7 @@ header{
 	margin-left: 25%;
 	margin-right: 25%;
 }
+
 
 /* footer*/
 footer{
