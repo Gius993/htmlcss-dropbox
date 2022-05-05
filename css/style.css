@@ -261,6 +261,7 @@ nav{
 .font-descrizioni-offerta{
 	font-size: 12px;
 	margin-top: 10px;
+	
 }
 .font-descrizioni-offerta-1{
 	font-size: 12px;
@@ -565,11 +566,13 @@ nav{
 	margin-left: 26%;
 
 }
-li i{
+
+
+
+.lista-domande li i {
 	color: black;
 	margin-left: 25%;
 }
-
 /*footer*/
 
 .reassunto{
