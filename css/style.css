@@ -532,4 +532,11 @@ nav{
 	margin-top: 40px;
 	padding-top: 5%;
 }
+.class-margin-fix-domande{
+	margin-left: 26%;
 
+}
+li i{
+	color: black;
+	margin-left: 25%;
+}
